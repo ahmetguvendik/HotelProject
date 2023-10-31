@@ -10,3 +10,8 @@
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/obj/Debug/net7.0/refint/Hotel.Persistance.dll
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/obj/Debug/net7.0/Hotel.Persistance.pdb
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/obj/Debug/net7.0/ref/Hotel.Persistance.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/bin/Debug/net7.0/Hotel.Application.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/bin/Debug/net7.0/Hotel.Domain.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/bin/Debug/net7.0/Hotel.Domain.pdb
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/bin/Debug/net7.0/Hotel.Application.pdb
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/obj/Debug/net7.0/Hotel.Persistance.csproj.CopyComplete

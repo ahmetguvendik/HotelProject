@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "xW+KC2bkkh90SqAoEsMi9/d2FcFQIniewqXJrBJ6wK+JSDawL2J8V2cs9gL3iJTlqHHCyGsfhkMYfS1606mhkA==",
+  "dgSpecHash": "03Esl0tTnJ9m5ig0EflD8q+BsA8kCICYMUMkU72m+lSoOLL5nhcfKwuOTJwSZ5l1SQsYEpGe88NTe5cmrCja3A==",
   "success": true,
   "projectFilePath": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Infrastructure/Hotel.Persistance/Hotel.Persistance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.entityframeworkcore/7.0.13/microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.13/microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.13/microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

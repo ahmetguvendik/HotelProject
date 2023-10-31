@@ -6,4 +6,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Contexts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Contexts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Hotel.Domain\Hotel.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\Hotel.Application\Hotel.Application.csproj" />
+  </ItemGroup>
 </Project>

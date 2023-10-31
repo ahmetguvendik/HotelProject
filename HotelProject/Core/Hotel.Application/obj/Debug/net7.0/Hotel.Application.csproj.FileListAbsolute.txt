@@ -10,3 +10,6 @@
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/refint/Hotel.Application.dll
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.pdb
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/ref/Hotel.Application.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Domain.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Domain.pdb
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.csproj.CopyComplete
