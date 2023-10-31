@@ -1,13 +1,38 @@
 ﻿<Properties StartupConfiguration="{7CC7AB92-B607-4099-8392-7E33D08182F0}|https">
+  <MonoDevelop.Ide.ItemProperties.Frontend.Hotel.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Frontend/Hotel.Frontend/Views/Shared/_Layout.cshtml">
     <Files>
       <File FileName="Frontend/Hotel.Frontend/Controllers/DefaultController.cs" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/_Layout.cshtml" Line="25" Column="17" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Home/Index.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/_Layout.cshtml" Line="70" Column="30" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/HeadPartial.cs" Line="8" Column="3" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/SpinnerPartial.cs" Line="8" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/SpinnerPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/CarouselPartial.cs" Line="9" Column="10" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/BookingPartial.cs" Line="8" Column="9" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/BookingPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/CarouselPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/AboutPartial/Default.cshtml" Line="57" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/AboutPartial.cs" Line="11" Column="10" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/RoomPartial/Default.cshtml" Line="101" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/RoomPartial.cs" Line="15" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/VideoPartial/Default.cshtml" Line="38" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/VideoPartial.cs" Line="11" Column="10" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/ServicePartial/Default.cshtml" Line="76" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/ServicePartial.cs" Line="11" Column="10" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/TestimonialPartial/Default.cshtml" Line="39" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TestimonialPartial.cs" Line="11" Column="10" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/TeamPartial/Default.cshtml" Line="74" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TeamPartial.cs" Line="15" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/NewsletterPartial/Default.cshtml" Line="15" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/NewsletterPartial.cs" Line="11" Column="10" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/FooterPartial/Default.cshtml" Line="66" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/FooterPartial.cs" Line="11" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,21 +40,13 @@
           <Node name="HotelProject" expanded="True">
             <Node name="Core" expanded="True" />
             <Node name="Frontend" expanded="True">
-              <Node name="Hotel.Frontend" expanded="True" selected="True">
-                <Node name="Controllers" expanded="True" />
-                <Node name="Views" expanded="True">
-                  <Node name="Default" expanded="True" />
-                  <Node name="Shared" expanded="True" />
-                </Node>
-                <Node name="wwwroot" expanded="True" />
-              </Node>
+              <Node name="Hotel.Frontend" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Presentation.Hotel.Presentation PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.ItemProperties.Frontend.Hotel.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
 </Properties>

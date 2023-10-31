@@ -21,11 +21,13 @@
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/staticwebassets.build.json
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/staticwebassets.development.json
-/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/bundle/Hotel.Frontend.styles.css
-/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/projectbundle/Hotel.Frontend.bundle.scp.css
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/Hotel.Frontend.dll
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/refint/Hotel.Frontend.dll
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/Hotel.Frontend.pdb
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/Hotel.Frontend.genruntimeconfig.cache
 /Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/ref/Hotel.Frontend.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/Hotel.Frontend.csproj.CopyComplete

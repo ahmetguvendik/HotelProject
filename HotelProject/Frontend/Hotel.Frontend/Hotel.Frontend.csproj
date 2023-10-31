@@ -14,8 +14,41 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
     <Folder Include="Views\Default\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="ViewComponents\Default\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\HeadPartial\" />
+    <Folder Include="Views\Shared\Components\SpinnerPartial\" />
+    <Folder Include="Views\Shared\Components\BookingPartial\" />
+    <Folder Include="Views\Shared\Components\CarouselPartial\" />
+    <Folder Include="Views\Shared\Components\AboutPartial\" />
+    <Folder Include="Views\Shared\Components\RoomPartial\" />
+    <Folder Include="Views\Shared\Components\VideoPartial\" />
+    <Folder Include="Views\Shared\Components\ServicePartial\" />
+    <Folder Include="Views\Shared\Components\TestimonialPartial\" />
+    <Folder Include="Views\Shared\Components\TeamPartial\" />
+    <Folder Include="Views\Shared\Components\NewsletterPartial\" />
+    <Folder Include="Views\Shared\Components\FooterPartial\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="ViewComponents\Default\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\HeadPartial\" />
+    <None Remove="Views\Shared\Components\SpinnerPartial\" />
+    <None Remove="Views\Shared\Components\BookingPartial\" />
+    <None Remove="Views\Shared\Components\CarouselPartial\" />
+    <None Remove="Views\Shared\Components\AboutPartial\" />
+    <None Remove="Views\Shared\Components\RoomPartial\" />
+    <None Remove="Views\Shared\Components\VideoPartial\" />
+    <None Remove="Views\Shared\Components\ServicePartial\" />
+    <None Remove="Views\Shared\Components\TestimonialPartial\" />
+    <None Remove="Views\Shared\Components\TeamPartial\" />
+    <None Remove="Views\Shared\Components\NewsletterPartial\" />
+    <None Remove="Views\Shared\Components\FooterPartial\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
   </ItemGroup>
 </Project>

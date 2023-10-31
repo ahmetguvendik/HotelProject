@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Qk7gfo+y7FdBBxjAqatiBJUaiJRQIYFxh30jh+KMG4=",
+  "Hash": "RPVR/Ih13Fi/9gsrilj1PjTiwNUVVVc4bZ1Z/oK2jvE=",
   "Source": "Hotel.Frontend",
   "BasePath": "_content/Hotel.Frontend",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/bundle/Hotel.Frontend.styles.css",
-      "SourceId": "Hotel.Frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/bundle/",
-      "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "Hotel.Frontend.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/bundle/Hotel.Frontend.styles.css"
-    },
-    {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/projectbundle/Hotel.Frontend.bundle.scp.css",
-      "SourceId": "Hotel.Frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/projectbundle/",
-      "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "Hotel.Frontend.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/obj/Debug/net7.0/scopedcss/projectbundle/Hotel.Frontend.bundle.scp.css"
-    },
     {
       "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/.DS_Store",
       "SourceId": "Hotel.Frontend",
@@ -68,12 +34,12 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/about.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/about.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "about.html",
+      "RelativePath": "hotel-html-template/about.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/about.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/about.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/booking.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/booking.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "booking.html",
+      "RelativePath": "hotel-html-template/booking.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/booking.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/booking.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/contact.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/contact.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "contact.html",
+      "RelativePath": "hotel-html-template/contact.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/contact.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/contact.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/css/bootstrap.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/css/bootstrap.min.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "css/bootstrap.min.css",
+      "RelativePath": "hotel-html-template/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/css/style.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/css/style.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "css/style.css",
+      "RelativePath": "hotel-html-template/css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/style.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/css/style.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/hotel-html-template.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "hotel-html-template.jpg",
+      "RelativePath": "hotel-html-template/hotel-html-template.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hotel-html-template.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/hotel-html-template.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/about-1.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/about-1.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/about-1.jpg",
+      "RelativePath": "hotel-html-template/img/about-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/about-1.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/about-1.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/about-2.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/about-2.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/about-2.jpg",
+      "RelativePath": "hotel-html-template/img/about-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/about-2.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/about-2.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/about-3.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/about-3.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/about-3.jpg",
+      "RelativePath": "hotel-html-template/img/about-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/about-3.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/about-3.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/about-4.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/about-4.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/about-4.jpg",
+      "RelativePath": "hotel-html-template/img/about-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/about-4.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/about-4.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/carousel-1.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/carousel-1.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/carousel-1.jpg",
+      "RelativePath": "hotel-html-template/img/carousel-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/carousel-1.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/carousel-1.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/carousel-2.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/carousel-2.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/carousel-2.jpg",
+      "RelativePath": "hotel-html-template/img/carousel-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/carousel-2.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/carousel-2.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/room-1.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/room-1.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/room-1.jpg",
+      "RelativePath": "hotel-html-template/img/room-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/room-1.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/room-1.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/room-2.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/room-2.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/room-2.jpg",
+      "RelativePath": "hotel-html-template/img/room-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/room-2.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/room-2.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/room-3.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/room-3.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/room-3.jpg",
+      "RelativePath": "hotel-html-template/img/room-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/room-3.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/room-3.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/team-1.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/team-1.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/team-1.jpg",
+      "RelativePath": "hotel-html-template/img/team-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/team-1.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/team-1.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/team-2.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/team-2.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/team-2.jpg",
+      "RelativePath": "hotel-html-template/img/team-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/team-2.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/team-2.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/team-3.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/team-3.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/team-3.jpg",
+      "RelativePath": "hotel-html-template/img/team-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/team-3.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/team-3.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/team-4.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/team-4.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/team-4.jpg",
+      "RelativePath": "hotel-html-template/img/team-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/team-4.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/team-4.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/testimonial-1.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/testimonial-1.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/testimonial-1.jpg",
+      "RelativePath": "hotel-html-template/img/testimonial-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/testimonial-1.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/testimonial-1.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/testimonial-2.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/testimonial-2.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/testimonial-2.jpg",
+      "RelativePath": "hotel-html-template/img/testimonial-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/testimonial-2.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/testimonial-2.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/testimonial-3.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/testimonial-3.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/testimonial-3.jpg",
+      "RelativePath": "hotel-html-template/img/testimonial-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/testimonial-3.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/testimonial-3.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/testimonial-4.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/testimonial-4.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/testimonial-4.jpg",
+      "RelativePath": "hotel-html-template/img/testimonial-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/testimonial-4.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/testimonial-4.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/img/video.jpg",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/img/video.jpg",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "img/video.jpg",
+      "RelativePath": "hotel-html-template/img/video.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/video.jpg"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/img/video.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/index.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/index.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "index.html",
+      "RelativePath": "hotel-html-template/index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/index.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/js/main.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/js/main.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "js/main.js",
+      "RelativePath": "hotel-html-template/js/main.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/main.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/js/main.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/animate/animate.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/animate/animate.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/animate/animate.css",
+      "RelativePath": "hotel-html-template/lib/animate/animate.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/animate/animate.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/animate/animate.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/animate/animate.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/animate/animate.min.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/animate/animate.min.css",
+      "RelativePath": "hotel-html-template/lib/animate/animate.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/animate/animate.min.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/animate/animate.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/counterup/counterup.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/counterup/counterup.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/counterup/counterup.min.js",
+      "RelativePath": "hotel-html-template/lib/counterup/counterup.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/counterup/counterup.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/counterup/counterup.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/easing/easing.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/easing/easing.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/easing/easing.js",
+      "RelativePath": "hotel-html-template/lib/easing/easing.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/easing/easing.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/easing/easing.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/easing/easing.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/easing/easing.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/easing/easing.min.js",
+      "RelativePath": "hotel-html-template/lib/easing/easing.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/easing/easing.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/easing/easing.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/ajax-loader.gif",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/ajax-loader.gif"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/ajax-loader.gif"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.carousel.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.carousel.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.carousel.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.carousel.min.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.carousel.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.default.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.default.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.default.min.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.default.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.green.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.green.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.green.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.green.min.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.theme.green.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.video.play.png",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.video.play.png"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/assets/owl.video.play.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/LICENSE",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/LICENSE",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/LICENSE",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/LICENSE"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/LICENSE"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/owl.carousel.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/owl.carousel.js",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/owl.carousel.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/owl.carousel.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/owlcarousel/owl.carousel.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
+      "RelativePath": "hotel-html-template/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/owlcarousel/owl.carousel.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/owlcarousel/owl.carousel.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "RelativePath": "hotel-html-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "RelativePath": "hotel-html-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/tempusdominus/js/moment-timezone.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/tempusdominus/js/moment-timezone.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/tempusdominus/js/moment-timezone.min.js",
+      "RelativePath": "hotel-html-template/lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/tempusdominus/js/moment-timezone.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/tempusdominus/js/moment-timezone.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/tempusdominus/js/moment.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/tempusdominus/js/moment.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/tempusdominus/js/moment.min.js",
+      "RelativePath": "hotel-html-template/lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/tempusdominus/js/moment.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/tempusdominus/js/moment.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "RelativePath": "hotel-html-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "RelativePath": "hotel-html-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/waypoints/links.php",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/waypoints/links.php",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/waypoints/links.php",
+      "RelativePath": "hotel-html-template/lib/waypoints/links.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/waypoints/links.php"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/waypoints/links.php"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/waypoints/waypoints.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/waypoints/waypoints.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/waypoints/waypoints.min.js",
+      "RelativePath": "hotel-html-template/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/waypoints/waypoints.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/waypoints/waypoints.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/wow/wow.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/wow/wow.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/wow/wow.js",
+      "RelativePath": "hotel-html-template/lib/wow/wow.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/wow/wow.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/wow/wow.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/lib/wow/wow.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/lib/wow/wow.min.js",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "lib/wow/wow.min.js",
+      "RelativePath": "hotel-html-template/lib/wow/wow.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/wow/wow.min.js"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/lib/wow/wow.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/LICENSE.txt",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/LICENSE.txt",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "LICENSE.txt",
+      "RelativePath": "hotel-html-template/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/LICENSE.txt"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/READ-ME.txt",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/READ-ME.txt",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "READ-ME.txt",
+      "RelativePath": "hotel-html-template/READ-ME.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/READ-ME.txt"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/READ-ME.txt"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/room.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/room.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "room.html",
+      "RelativePath": "hotel-html-template/room.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/room.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/room.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_accordion.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_accordion.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_accordion.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_accordion.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_accordion.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_alert.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_alert.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_alert.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_alert.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_alert.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_badge.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_badge.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_badge.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_badge.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_badge.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_breadcrumb.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_breadcrumb.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_breadcrumb.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_breadcrumb.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_breadcrumb.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_button-group.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_button-group.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_button-group.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_button-group.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_button-group.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_buttons.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_buttons.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_buttons.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_buttons.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_buttons.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_card.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_card.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_card.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_card.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_card.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_carousel.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_carousel.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_carousel.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_carousel.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_carousel.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_close.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_close.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_close.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_close.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_close.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_containers.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_containers.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_containers.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_containers.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_containers.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_dropdown.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_dropdown.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_dropdown.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_dropdown.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_dropdown.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_forms.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_forms.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_forms.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_forms.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_forms.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_functions.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_functions.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_functions.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_functions.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_functions.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_grid.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_grid.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_grid.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_grid.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_grid.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_helpers.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_helpers.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_helpers.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_helpers.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_helpers.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_images.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_images.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_images.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_images.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_images.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_list-group.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_list-group.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_list-group.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_list-group.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_list-group.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_mixins.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_mixins.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_mixins.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_mixins.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_mixins.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_modal.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_modal.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_modal.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_modal.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_modal.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_nav.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_nav.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_nav.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_nav.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_nav.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_navbar.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_navbar.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_navbar.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_navbar.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_navbar.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_offcanvas.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_offcanvas.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_offcanvas.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_offcanvas.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_offcanvas.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_pagination.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_pagination.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_pagination.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_pagination.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_pagination.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_popover.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_popover.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_popover.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_popover.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_popover.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_progress.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_progress.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_progress.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_progress.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_progress.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_reboot.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_reboot.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_reboot.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_reboot.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_reboot.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_root.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_root.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_root.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_root.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_root.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_spinners.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_spinners.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_spinners.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_spinners.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_spinners.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_tables.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_tables.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_tables.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_tables.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_tables.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_toasts.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_toasts.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_toasts.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_toasts.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_toasts.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_tooltip.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_tooltip.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_tooltip.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_tooltip.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_tooltip.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_transitions.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_transitions.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_transitions.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_transitions.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_transitions.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_type.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_type.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_type.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_type.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_type.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_utilities.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_utilities.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_utilities.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_utilities.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_utilities.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/_variables.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/_variables.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/_variables.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1578,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/_variables.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/_variables.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/bootstrap-grid.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap-grid.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/bootstrap-grid.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/bootstrap-grid.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap-grid.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap-reboot.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/bootstrap-reboot.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1646,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/bootstrap-reboot.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap-reboot.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/bootstrap-utilities.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap-utilities.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/bootstrap-utilities.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1663,15 +1629,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/bootstrap-utilities.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap-utilities.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/bootstrap.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/bootstrap.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1646,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/bootstrap.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/bootstrap.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_floating-labels.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_floating-labels.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_floating-labels.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_floating-labels.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_floating-labels.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_form-check.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-check.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_form-check.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_form-check.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-check.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_form-control.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-control.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_form-control.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1731,15 +1697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_form-control.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-control.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_form-range.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-range.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_form-range.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1748,15 +1714,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_form-range.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-range.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_form-select.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-select.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_form-select.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1765,15 +1731,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_form-select.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-select.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_form-text.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-text.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_form-text.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1782,15 +1748,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_form-text.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_form-text.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_input-group.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_input-group.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_input-group.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1799,15 +1765,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_input-group.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_input-group.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_labels.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_labels.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_labels.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1782,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_labels.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_labels.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/forms/_validation.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_validation.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/forms/_validation.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1799,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/forms/_validation.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/forms/_validation.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_clearfix.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_clearfix.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_clearfix.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1816,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_clearfix.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_clearfix.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_colored-links.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_colored-links.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_colored-links.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1833,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_colored-links.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_colored-links.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_position.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_position.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_position.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,15 +1850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_position.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_position.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_ratio.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_ratio.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_ratio.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_ratio.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_ratio.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_stretched-link.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_stretched-link.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_text-truncation.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_text-truncation.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/helpers/_visually-hidden.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/helpers/_visually-hidden.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_alert.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_alert.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_alert.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_alert.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_alert.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_border-radius.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_border-radius.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_border-radius.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_box-shadow.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_breakpoints.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_buttons.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_buttons.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_buttons.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_buttons.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_buttons.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_caret.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_caret.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_caret.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_caret.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_caret.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_clearfix.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_clearfix.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_clearfix.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_clearfix.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_color-scheme.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_container.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_container.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_container.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_container.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_container.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_deprecate.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_deprecate.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2122,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_deprecate.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_deprecate.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_forms.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_forms.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_forms.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2105,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_forms.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_forms.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_gradients.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_gradients.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_gradients.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_gradients.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_gradients.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_grid.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_grid.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_grid.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2173,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_grid.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_grid.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_image.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_image.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_image.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2190,15 +2156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_image.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_image.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_list-group.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_list-group.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_list-group.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2207,15 +2173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_list-group.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_list-group.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_lists.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_lists.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_lists.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2224,15 +2190,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_lists.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_lists.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_pagination.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_pagination.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_pagination.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2241,15 +2207,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_pagination.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_pagination.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_reset-text.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_reset-text.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2258,15 +2224,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_reset-text.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_reset-text.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_resize.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_resize.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_resize.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2275,15 +2241,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_resize.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_resize.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_table-variants.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_table-variants.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_table-variants.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2292,15 +2258,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_table-variants.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_table-variants.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2309,15 +2275,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_text-truncate.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_text-truncate.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_transition.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_transition.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_transition.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2326,15 +2292,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_transition.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_transition.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_utilities.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_utilities.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_utilities.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2343,15 +2309,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_utilities.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_utilities.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2360,15 +2326,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_visually-hidden.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/mixins/_visually-hidden.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/utilities/_api.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/utilities/_api.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2377,15 +2343,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/utilities/_api.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/utilities/_api.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/scss/bootstrap/scss/vendor/_rfs.scss",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/scss/bootstrap/scss/vendor/_rfs.scss",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "scss/bootstrap/scss/vendor/_rfs.scss",
+      "RelativePath": "hotel-html-template/scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2394,15 +2360,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/vendor/_rfs.scss"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/scss/bootstrap/scss/vendor/_rfs.scss"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/service.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/service.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "service.html",
+      "RelativePath": "hotel-html-template/service.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2411,15 +2377,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/service.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/service.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/team.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/team.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "team.html",
+      "RelativePath": "hotel-html-template/team.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2428,15 +2394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/team.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/team.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/testimonial.html",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/hotel-html-template/testimonial.html",
       "SourceId": "Hotel.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Frontend/Hotel.Frontend/wwwroot/",
       "BasePath": "_content/Hotel.Frontend",
-      "RelativePath": "testimonial.html",
+      "RelativePath": "hotel-html-template/testimonial.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2445,7 +2411,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/testimonial.html"
+      "OriginalItemSpec": "wwwroot/hotel-html-template/testimonial.html"
     }
   ]
 }
