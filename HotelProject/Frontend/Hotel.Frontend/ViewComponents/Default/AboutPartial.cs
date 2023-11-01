@@ -13,6 +13,7 @@ namespace Hotel.Frontend.ViewComponents.Default
             _httpClientFactory = httpClientFactory;
         }
 
+
         public async Task<IViewComponentResult> InvokeAsync()
         {
             var client = _httpClientFactory.CreateClient();
