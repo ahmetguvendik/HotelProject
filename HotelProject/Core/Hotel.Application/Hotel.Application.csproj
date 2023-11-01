@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="CQRS\" />
+    <None Remove="CQRS\Commands\" />
+    <None Remove="CQRS\Queries\" />
+    <None Remove="CQRS\Queries\About\" />
+    <None Remove="CQRS\Queries\About\GetAllAbout\" />
+    <None Remove="CQRS\Queries\Room\" />
+    <None Remove="CQRS\Queries\Room\GetAllRoom\" />
+    <None Remove="CQRS\Queries\Service\" />
+    <None Remove="CQRS\Queries\Service\GetAllService\" />
+    <None Remove="CQRS\Queries\Staff\" />
+    <None Remove="CQRS\Queries\Staff\GetAllStaff\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="CQRS\" />
+    <Folder Include="CQRS\Commands\" />
+    <Folder Include="CQRS\Queries\" />
+    <Folder Include="CQRS\Queries\About\" />
+    <Folder Include="CQRS\Queries\About\GetAllAbout\" />
+    <Folder Include="CQRS\Queries\Room\" />
+    <Folder Include="CQRS\Queries\Room\GetAllRoom\" />
+    <Folder Include="CQRS\Queries\Service\" />
+    <Folder Include="CQRS\Queries\Service\GetAllService\" />
+    <Folder Include="CQRS\Queries\Staff\" />
+    <Folder Include="CQRS\Queries\Staff\GetAllStaff\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hotel.Domain\Hotel.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+</Project>

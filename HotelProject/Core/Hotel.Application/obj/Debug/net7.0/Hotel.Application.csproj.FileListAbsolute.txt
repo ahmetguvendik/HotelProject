@@ -1,0 +1,15 @@
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Application.deps.json
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Application.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Application.pdb
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.csproj.AssemblyReference.cache
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/refint/Hotel.Application.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.pdb
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/ref/Hotel.Application.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Domain.dll
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/bin/Debug/net7.0/Hotel.Domain.pdb
+/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/HotelProject/Core/Hotel.Application/obj/Debug/net7.0/Hotel.Application.csproj.CopyComplete
