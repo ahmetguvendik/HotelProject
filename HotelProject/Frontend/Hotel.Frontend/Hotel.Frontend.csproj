@@ -29,6 +29,7 @@
     <Folder Include="Views\Shared\Components\TeamPartial\" />
     <Folder Include="Views\Shared\Components\NewsletterPartial\" />
     <Folder Include="Views\Shared\Components\FooterPartial\" />
+    <Folder Include="Models\About\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
@@ -47,8 +48,10 @@
     <None Remove="Views\Shared\Components\TeamPartial\" />
     <None Remove="Views\Shared\Components\NewsletterPartial\" />
     <None Remove="Views\Shared\Components\FooterPartial\" />
+    <None Remove="Models\About\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 </Project>

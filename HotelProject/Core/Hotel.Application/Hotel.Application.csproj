@@ -8,14 +8,26 @@
 
   <ItemGroup>
     <None Remove="Repositories\" />
+    <None Remove="CQRS\" />
+    <None Remove="CQRS\Commands\" />
+    <None Remove="CQRS\Queries\" />
+    <None Remove="CQRS\Queries\About\" />
+    <None Remove="CQRS\Queries\About\GetAllAbout\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
+    <Folder Include="CQRS\" />
+    <Folder Include="CQRS\Commands\" />
+    <Folder Include="CQRS\Queries\" />
+    <Folder Include="CQRS\Queries\About\" />
+    <Folder Include="CQRS\Queries\About\GetAllAbout\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Hotel.Domain\Hotel.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 </Project>
