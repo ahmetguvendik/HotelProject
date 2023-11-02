@@ -33,6 +33,7 @@
     <Folder Include="Models\Room\" />
     <Folder Include="Models\Service\" />
     <Folder Include="Models\Staff\" />
+    <Folder Include="Models\Testimonial\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
@@ -55,6 +56,7 @@
     <None Remove="Models\Room\" />
     <None Remove="Models\Service\" />
     <None Remove="Models\Staff\" />
+    <None Remove="Models\Testimonial\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />

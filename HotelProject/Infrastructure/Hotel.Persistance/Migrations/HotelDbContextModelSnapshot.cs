@@ -135,6 +135,20 @@ namespace Hotel.Persistance.Migrations
                     b.ToTable("Staff");
                 });
 
+            modelBuilder.Entity("Hotel.Domain.Entities.Subscribe", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Subscribes");
+                });
+
             modelBuilder.Entity("Hotel.Domain.Entities.Testimonial", b =>
                 {
                     b.Property<string>("Id")

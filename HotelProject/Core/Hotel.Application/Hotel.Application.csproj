@@ -19,6 +19,10 @@
     <None Remove="CQRS\Queries\Service\GetAllService\" />
     <None Remove="CQRS\Queries\Staff\" />
     <None Remove="CQRS\Queries\Staff\GetAllStaff\" />
+    <None Remove="CQRS\Queries\Testimonial\" />
+    <None Remove="CQRS\Queries\Testimonial\GetAllTestimonial\" />
+    <None Remove="CQRS\Commands\Subscribe\" />
+    <None Remove="CQRS\Commands\Subscribe\CreateSubscribe\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
@@ -33,6 +37,10 @@
     <Folder Include="CQRS\Queries\Service\GetAllService\" />
     <Folder Include="CQRS\Queries\Staff\" />
     <Folder Include="CQRS\Queries\Staff\GetAllStaff\" />
+    <Folder Include="CQRS\Queries\Testimonial\" />
+    <Folder Include="CQRS\Queries\Testimonial\GetAllTestimonial\" />
+    <Folder Include="CQRS\Commands\Subscribe\" />
+    <Folder Include="CQRS\Commands\Subscribe\CreateSubscribe\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Hotel.Domain\Hotel.Domain.csproj" />

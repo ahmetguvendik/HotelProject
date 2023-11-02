@@ -1,60 +1,41 @@
 ﻿<Properties StartupConfiguration="{7CC7AB92-B607-4099-8392-7E33D08182F0}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Frontend/Hotel.Frontend/Views/Shared/Components/RoomPartial/Default.cshtml">
+  <MonoDevelop.Ide.ItemProperties.Frontend.Hotel.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Hotel.Persistance/ServiceRegistration.cs">
     <Files>
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/WriteRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/ReadRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/AboutWriteRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/AboutReadRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/RoomWriteRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/RoomReadRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/ServiceWriteRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/ServiceReadRepository.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/TestimonialWriteRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/TestimonialReadRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/StaffReadRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/StaffWriteRepository.cs" />
-      <File FileName="Infrastructure/Hotel.Persistance/ServiceRegistration.cs" Line="18" Column="79" />
-      <File FileName="Infrastructure/Hotel.Persistance/DesignTimeDbContext.cs" Line="20" Column="1" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/AboutController.cs" Line="7" Column="2" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/About/GetAllAbout/GetAllAboutRequest.cs" Line="8" Column="3" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/About/GetAllAbout/GetAllAboutHandler.cs" Line="15" Column="21" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/WeatherForecastController.cs" Line="5" Column="1" />
-      <File FileName="Presentation/Hotel.Presentation/Program.cs" Line="14" Column="1" />
-      <File FileName="Core/Hotel.Application/ServiceRegistration.cs" Line="9" Column="40" />
-      <File FileName="Frontend/Hotel.Frontend/Controllers/DefaultController.cs" Line="16" Column="27" />
-      <File FileName="Frontend/Hotel.Frontend/Controllers/HomeController.cs" Line="25" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/AboutPartial.cs" Line="27" Column="27" />
-      <File FileName="Frontend/Hotel.Frontend/Models/About/GetAboutViewModel.cs" Line="4" Column="32" />
-      <File FileName="Core/Hotel.Domain/Entities/About.cs" Line="6" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/AboutPartial/Default.cshtml" Line="63" Column="2" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/_Layout.cshtml" Line="56" Column="53" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/BookingPartial.cs" Line="1" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/Program.cs" Line="5" Column="34" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/Room/GetAllRoom/GetAllRoomQueryRequest.cs" Line="7" Column="3" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/Room/GetAllRoom/GetAllRoomQueryHandler.cs" Line="15" Column="22" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/RoomController.cs" Line="9" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/RoomPartial.cs" Line="28" Column="27" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/RoomPartial/Default.cshtml" Line="9" Column="88" />
-      <File FileName="Frontend/Hotel.Frontend/wwwroot/hotel-html-template/index.html" Line="414" Column="77" />
-      <File FileName="Core/Hotel.Domain/Entities/Room.cs" Line="11" Column="40" />
-      <File FileName="Frontend/Hotel.Frontend/Models/Room/GetRoomViewModel.cs" Line="11" Column="32" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/CarouselPartial.cs" Line="1" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/VideoPartial/Default.cshtml" Line="31" Column="47" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/ServicePartial/Default.cshtml" Line="8" Column="87" />
-      <File FileName="Core/Hotel.Domain/Entities/Service.cs" Line="6" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/Models/Service/GetServiceViewModel.cs" Line="8" Column="45" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/ServicePartial.cs" Line="26" Column="14" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/Service/GetAllService/GetAllServiceQueryRequest.cs" Line="8" Column="1" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/Service/GetAllService/GetAllServiceQueryHandler.cs" Line="18" Column="27" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/ServiceController.cs" Line="28" Column="10" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TestimonialPartial.cs" Line="1" Column="1" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TeamPartial.cs" Line="1" Column="7" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/TeamPartial/Default.cshtml" Line="8" Column="83" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/Staff/GetAllStaff/GetAllStaffQueryRequest.cs" Line="8" Column="3" />
-      <File FileName="Core/Hotel.Application/CQRS/Queries/Staff/GetAllStaff/GetAllStaffQueryHandler.cs" Line="21" Column="2" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/StaffController.cs" Line="23" Column="17" />
-      <File FileName="Frontend/Hotel.Frontend/Models/Staff/GetStaffViewModel.cs" Line="11" Column="50" />
-      <File FileName="Core/Hotel.Domain/Entities/Staff.cs" Line="6" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/AboutPartial/Default.cshtml" />
+      <File FileName="Core/Hotel.Application/CQRS/Queries/Testimonial/GetAllTestimonial/GetAllTestimonialQueryRequest.cs" />
+      <File FileName="Core/Hotel.Application/CQRS/Queries/Testimonial/GetAllTestimonial/GetAllTestimonialQueryHandler.cs" />
+      <File FileName="Presentation/Hotel.Presentation/Controllers/TestimonialController.cs" />
+      <File FileName="Presentation/Hotel.Presentation/Controllers/StaffController.cs" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TestimonialPartial.cs" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/AboutPartial.cs" />
+      <File FileName="Infrastructure/Hotel.Persistance/ServiceRegistration.cs" Line="20" Column="89" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/TestimonialPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Models/Testimonial/GetTestimonialViewModel.cs" />
+      <File FileName="Core/Hotel.Domain/Entities/Testimonial.cs" />
+      <File FileName="Presentation/Hotel.Presentation/Program.cs" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/FooterPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/NewsletterPartial.cs" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/NewsletterPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Controllers/HomeController.cs" Line="38" Column="2" />
+      <File FileName="Frontend/Hotel.Frontend/Controllers/DefaultController.cs" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Home/Index.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Home/NewsletterPartial.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/_Layout.cshtml" />
+      <File FileName="Core/Hotel.Domain/Entities/Subscribe.cs" Line="4" Column="37" />
+      <File FileName="Infrastructure/Hotel.Persistance/Contexts/HotelDbContext.cs" Line="16" Column="59" />
+      <File FileName="Core/Hotel.Application/Repositories/ISubscribeReadRepository.cs" Line="6" Column="18" />
+      <File FileName="Core/Hotel.Application/Repositories/ITestimonialReadRepository.cs" Line="6" Column="46" />
+      <File FileName="Core/Hotel.Application/Repositories/ISubscribeWriteRepository.cs" Line="6" Column="73" />
+      <File FileName="Infrastructure/Hotel.Persistance/Repositories/SubscribeReadRepository.cs" Line="8" Column="92" />
+      <File FileName="Infrastructure/Hotel.Persistance/Repositories/TestimonialReadRepository.cs" Line="10" Column="8" />
+      <File FileName="Infrastructure/Hotel.Persistance/Repositories/TestimonialWriteRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Hotel.Persistance/Repositories/SubscribeWriteRepository.cs" Line="12" Column="1" />
+      <File FileName="Presentation/Hotel.Presentation/Controllers/SubscribeController.cs" Line="26" Column="30" />
+      <File FileName="Presentation/Hotel.Presentation/Controllers/ServiceController.cs" Line="14" Column="28" />
+      <File FileName="Core/Hotel.Application/CQRS/Commands/Subscribe/CreateSubscribe/CreateSubscribeCommandRequest.cs" Line="8" Column="37" />
+      <File FileName="Core/Hotel.Application/CQRS/Commands/Subscribe/CreateSubscribe/CreateSubscribeCommandHandler.cs" Line="22" Column="57" />
+      <File FileName="Core/Hotel.Application/CQRS/Commands/Subscribe/CreateSubscribe/CreateSubscribeCommandResponse.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -63,40 +44,48 @@
             <Node name="Core" expanded="True">
               <Node name="Hotel.Application" expanded="True">
                 <Node name="CQRS" expanded="True">
-                  <Node name="Queries" expanded="True">
-                    <Node name="Staff" expanded="True">
-                      <Node name="GetAllStaff" expanded="True" />
+                  <Node name="Commands" expanded="True">
+                    <Node name="Subscribe" expanded="True">
+                      <Node name="CreateSubscribe" expanded="True" />
                     </Node>
                   </Node>
                 </Node>
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Hotel.Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
               </Node>
             </Node>
             <Node name="Frontend" expanded="True">
               <Node name="Hotel.Frontend" expanded="True">
                 <Node name="Controllers" expanded="True" />
-                <Node name="Models" expanded="True">
-                  <Node name="Staff" expanded="True" />
-                </Node>
+                <Node name="Models" expanded="True" />
                 <Node name="ViewComponents" expanded="True">
                   <Node name="Default" expanded="True" />
                 </Node>
                 <Node name="Views" expanded="True">
+                  <Node name="Home" expanded="True" />
                   <Node name="Shared" expanded="True">
                     <Node name="Components" expanded="True">
+                      <Node name="AboutPartial" expanded="True" />
+                      <Node name="FooterPartial" expanded="True" />
+                      <Node name="NewsletterPartial" expanded="True" />
                       <Node name="RoomPartial" expanded="True" />
                       <Node name="ServicePartial" expanded="True" />
                       <Node name="TeamPartial" expanded="True" />
+                      <Node name="TestimonialPartial" expanded="True" />
                       <Node name="VideoPartial" expanded="True" />
                     </Node>
                   </Node>
                 </Node>
-                <Node name="wwwroot" expanded="True">
-                  <Node name="hotel-html-template" expanded="True" />
-                </Node>
+                <Node name="wwwroot" expanded="True" />
               </Node>
             </Node>
             <Node name="Infrastructure" expanded="True">
-              <Node name="Hotel.Persistance" expanded="True" />
+              <Node name="Hotel.Persistance" expanded="True">
+                <Node name="Contexts" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
             </Node>
             <Node name="Presentation" expanded="True">
               <Node name="Hotel.Presentation" expanded="True">
@@ -109,11 +98,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Frontend.Hotel.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.ItemProperties.Presentation.Hotel.Presentation PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Presentation.Hotel.Presentation PreferredExecutionTarget="/Applications/Brave Browser.app" />
 </Properties>
