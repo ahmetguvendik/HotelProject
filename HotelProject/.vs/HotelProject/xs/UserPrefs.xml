@@ -1,41 +1,40 @@
 ﻿<Properties StartupConfiguration="{7CC7AB92-B607-4099-8392-7E33D08182F0}|https">
   <MonoDevelop.Ide.ItemProperties.Frontend.Hotel.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Hotel.Persistance/ServiceRegistration.cs">
+  <MonoDevelop.Ide.ItemProperties.Presentation.Hotel.Presentation PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontend/Hotel.Frontend/Views/Home/NewsletterPartial.cshtml">
     <Files>
       <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/AboutPartial/Default.cshtml" />
       <File FileName="Core/Hotel.Application/CQRS/Queries/Testimonial/GetAllTestimonial/GetAllTestimonialQueryRequest.cs" />
       <File FileName="Core/Hotel.Application/CQRS/Queries/Testimonial/GetAllTestimonial/GetAllTestimonialQueryHandler.cs" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/TestimonialController.cs" />
+      <File FileName="Presentation/Hotel.Presentation/Controllers/TestimonialController.cs" Line="1" Column="1" />
       <File FileName="Presentation/Hotel.Presentation/Controllers/StaffController.cs" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TestimonialPartial.cs" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/AboutPartial.cs" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TestimonialPartial.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/AboutPartial.cs" Line="1" Column="1" />
       <File FileName="Infrastructure/Hotel.Persistance/ServiceRegistration.cs" Line="20" Column="89" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/TestimonialPartial/Default.cshtml" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/TestimonialPartial/Default.cshtml" Line="14" Column="43" />
       <File FileName="Frontend/Hotel.Frontend/Models/Testimonial/GetTestimonialViewModel.cs" />
       <File FileName="Core/Hotel.Domain/Entities/Testimonial.cs" />
       <File FileName="Presentation/Hotel.Presentation/Program.cs" />
       <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/FooterPartial/Default.cshtml" />
-      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/NewsletterPartial.cs" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/NewsletterPartial/Default.cshtml" />
-      <File FileName="Frontend/Hotel.Frontend/Controllers/HomeController.cs" Line="38" Column="2" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/NewsletterPartial.cs" Line="10" Column="12" />
       <File FileName="Frontend/Hotel.Frontend/Controllers/DefaultController.cs" />
       <File FileName="Frontend/Hotel.Frontend/Views/Home/Index.cshtml" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Home/NewsletterPartial.cshtml" />
-      <File FileName="Frontend/Hotel.Frontend/Views/Shared/_Layout.cshtml" />
-      <File FileName="Core/Hotel.Domain/Entities/Subscribe.cs" Line="4" Column="37" />
-      <File FileName="Infrastructure/Hotel.Persistance/Contexts/HotelDbContext.cs" Line="16" Column="59" />
-      <File FileName="Core/Hotel.Application/Repositories/ISubscribeReadRepository.cs" Line="6" Column="18" />
-      <File FileName="Core/Hotel.Application/Repositories/ITestimonialReadRepository.cs" Line="6" Column="46" />
-      <File FileName="Core/Hotel.Application/Repositories/ISubscribeWriteRepository.cs" Line="6" Column="73" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/SubscribeReadRepository.cs" Line="8" Column="92" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/TestimonialReadRepository.cs" Line="10" Column="8" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/TestimonialWriteRepository.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Hotel.Persistance/Repositories/SubscribeWriteRepository.cs" Line="12" Column="1" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/SubscribeController.cs" Line="26" Column="30" />
-      <File FileName="Presentation/Hotel.Presentation/Controllers/ServiceController.cs" Line="14" Column="28" />
-      <File FileName="Core/Hotel.Application/CQRS/Commands/Subscribe/CreateSubscribe/CreateSubscribeCommandRequest.cs" Line="8" Column="37" />
-      <File FileName="Core/Hotel.Application/CQRS/Commands/Subscribe/CreateSubscribe/CreateSubscribeCommandHandler.cs" Line="22" Column="57" />
-      <File FileName="Core/Hotel.Application/CQRS/Commands/Subscribe/CreateSubscribe/CreateSubscribeCommandResponse.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Home/NewsletterPartial.cshtml" Line="13" Column="36" />
+      <File FileName="Infrastructure/Hotel.Persistance/Contexts/HotelDbContext.cs" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/ServicePartial.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/SpinnerPartial.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/TeamPartial.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/ViewComponents/Default/VideoPartial.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/BookingPartial/Default.cshtml" Line="42" Column="7" />
+      <File FileName="Frontend/Hotel.Frontend/Views/Shared/Components/RoomPartial/Default.cshtml" Line="18" Column="33" />
+      <File FileName="Frontend/Hotel.Frontend/wwwroot/hotel-html-template/index.html" Line="267" Column="33" />
+      <File FileName="Frontend/Hotel.Frontend/hotel-html-template/index.html" Line="327" Column="33" />
+      <File FileName="Frontend/Hotel.Frontend/Models/Newsletter/CreateNewsletterViewModel.cs" Line="4" Column="40" />
+      <File FileName="Frontend/Hotel.Frontend/Controllers/HomeController.cs" Line="43" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -43,13 +42,6 @@
           <Node name="HotelProject" expanded="True" selected="True">
             <Node name="Core" expanded="True">
               <Node name="Hotel.Application" expanded="True">
-                <Node name="CQRS" expanded="True">
-                  <Node name="Commands" expanded="True">
-                    <Node name="Subscribe" expanded="True">
-                      <Node name="CreateSubscribe" expanded="True" />
-                    </Node>
-                  </Node>
-                </Node>
                 <Node name="Repositories" expanded="True" />
               </Node>
               <Node name="Hotel.Domain" expanded="True">
@@ -59,7 +51,9 @@
             <Node name="Frontend" expanded="True">
               <Node name="Hotel.Frontend" expanded="True">
                 <Node name="Controllers" expanded="True" />
-                <Node name="Models" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Newsletter" expanded="True" />
+                </Node>
                 <Node name="ViewComponents" expanded="True">
                   <Node name="Default" expanded="True" />
                 </Node>
@@ -68,40 +62,33 @@
                   <Node name="Shared" expanded="True">
                     <Node name="Components" expanded="True">
                       <Node name="AboutPartial" expanded="True" />
+                      <Node name="BookingPartial" expanded="True" />
+                      <Node name="CarouselPartial" expanded="True" />
                       <Node name="FooterPartial" expanded="True" />
+                      <Node name="HeadPartial" expanded="True" />
                       <Node name="NewsletterPartial" expanded="True" />
                       <Node name="RoomPartial" expanded="True" />
                       <Node name="ServicePartial" expanded="True" />
+                      <Node name="SpinnerPartial" expanded="True" />
                       <Node name="TeamPartial" expanded="True" />
                       <Node name="TestimonialPartial" expanded="True" />
                       <Node name="VideoPartial" expanded="True" />
                     </Node>
                   </Node>
                 </Node>
-                <Node name="wwwroot" expanded="True" />
               </Node>
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="Hotel.Persistance" expanded="True">
-                <Node name="Contexts" expanded="True" />
                 <Node name="Repositories" expanded="True" />
               </Node>
             </Node>
-            <Node name="Presentation" expanded="True">
-              <Node name="Hotel.Presentation" expanded="True">
-                <Node name="Controllers" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="Presentation" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Presentation.Hotel.Presentation PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
