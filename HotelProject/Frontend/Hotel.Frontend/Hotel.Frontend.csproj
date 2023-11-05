@@ -36,6 +36,7 @@
     <Folder Include="Models\Testimonial\" />
     <Folder Include="Models\Newsletter\" />
     <Folder Include="Views\About\" />
+    <Folder Include="Views\Shared\Components\AboutTitlePartial\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
@@ -61,6 +62,7 @@
     <None Remove="Models\Testimonial\" />
     <None Remove="Models\Newsletter\" />
     <None Remove="Views\About\" />
+    <None Remove="Views\Shared\Components\AboutTitlePartial\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
