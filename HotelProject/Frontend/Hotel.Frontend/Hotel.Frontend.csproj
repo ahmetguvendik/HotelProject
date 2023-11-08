@@ -37,6 +37,10 @@
     <Folder Include="Models\Newsletter\" />
     <Folder Include="Views\About\" />
     <Folder Include="Views\Shared\Components\AboutTitlePartial\" />
+    <Folder Include="Views\Booking\" />
+    <Folder Include="Views\Shared\Components\BookingTitlePartial\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Shared\Components\ContactTitlePartial\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
@@ -63,6 +67,10 @@
     <None Remove="Models\Newsletter\" />
     <None Remove="Views\About\" />
     <None Remove="Views\Shared\Components\AboutTitlePartial\" />
+    <None Remove="Views\Booking\" />
+    <None Remove="Views\Shared\Components\BookingTitlePartial\" />
+    <None Remove="Views\Contact\" />
+    <None Remove="Views\Shared\Components\ContactTitlePartial\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
