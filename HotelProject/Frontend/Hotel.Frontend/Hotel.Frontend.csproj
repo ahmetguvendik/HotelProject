@@ -41,6 +41,7 @@
     <Folder Include="Views\Shared\Components\BookingTitlePartial\" />
     <Folder Include="Views\Contact\" />
     <Folder Include="Views\Shared\Components\ContactTitlePartial\" />
+    <Folder Include="Models\Contact\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
@@ -71,6 +72,7 @@
     <None Remove="Views\Shared\Components\BookingTitlePartial\" />
     <None Remove="Views\Contact\" />
     <None Remove="Views\Shared\Components\ContactTitlePartial\" />
+    <None Remove="Models\Contact\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 using Hotel.Frontend.Models.Newsletter;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -37,7 +32,7 @@ namespace Hotel.Frontend.Controllers
             var jsonData = JsonConvert.SerializeObject(createNewsletterViewModel);
             var stringContent = new StringContent(jsonData, encoding: Encoding.UTF8, "application/json");
             var response = await client.PostAsync("https://localhost:7105/Subscribe", stringContent);
-            return View();
+            return RedirectToAction("Index","About");   
         }
     }
 }

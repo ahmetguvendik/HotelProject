@@ -13,7 +13,8 @@ namespace Hotel.Persistance.Contexts
         public DbSet<Service> Services { get; set; }
         public DbSet<Staff> Staff { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
-        public DbSet<Subscribe> Subscribes { get; set; }    
+        public DbSet<Subscribe> Subscribes { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
     }
 }
 

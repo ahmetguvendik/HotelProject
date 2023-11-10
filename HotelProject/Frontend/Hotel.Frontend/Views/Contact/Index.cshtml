@@ -44,25 +44,14 @@
         <!-- Header Start -->
         @await Component.InvokeAsync("HeadPartial")
         <!-- Header End -->
-        <!-- Carousel Start -->
+        <!-- Carousel Start --> 
         <!-- Carousel End -->
         <!-- Booking Start -->
         <!-- Booking End -->
         <!-- About Start -->
         @await Component.InvokeAsync("ContactTitlePartial")
-        <!-- About End -->
-        <!-- Room Start -->
-        <!-- Room End -->
-        <!-- Video Start -->
-        <!-- Video Start -->
-        <!-- Service Start -->
-        <!-- Service End -->
-        <!-- Testimonial Start -->
-        <!-- Testimonial End -->
-        <!-- Team Start -->
-        <!-- Team End -->
-        <!-- Newsletter Start -->
-        @await Html.PartialAsync("/Views/About/NewsletterPartial.cshtml")
+        @await Html.PartialAsync("/Views/Contact/ContactPartial.cshtml")
+        @await Html.PartialAsync("/Views/Contact/NewsletterPartial.cshtml")
         <!-- Newsletter Start -->
         <!-- Footer Start -->
         @await Component.InvokeAsync("FooterPartial")

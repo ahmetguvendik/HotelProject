@@ -48,6 +48,32 @@ namespace Hotel.Persistance.Migrations
                     b.ToTable("Abouts");
                 });
 
+            modelBuilder.Entity("Hotel.Domain.Entities.Contact", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Message")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Subject")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Contacts");
+                });
+
             modelBuilder.Entity("Hotel.Domain.Entities.Room", b =>
                 {
                     b.Property<string>("Id")
