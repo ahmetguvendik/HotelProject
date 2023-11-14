@@ -19,6 +19,7 @@ namespace Hotel.Persistance
             collection.AddScoped<ITestimonialReadRepository, TestimonialReadRepository>();
             collection.AddScoped<ISubscribeWriteRepository, SubscribeWriteRepository>();
             collection.AddScoped<IContactWriteRepository, ContactWriteRepository>();
+            collection.AddScoped<IBookingWriteRepository, BookingWriteRepository>();
         }
     }
 }

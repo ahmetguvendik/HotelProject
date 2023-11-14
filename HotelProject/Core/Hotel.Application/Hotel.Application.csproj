@@ -25,6 +25,8 @@
     <None Remove="CQRS\Commands\Subscribe\CreateSubscribe\" />
     <None Remove="CQRS\Commands\Contact\" />
     <None Remove="CQRS\Commands\Contact\CreateContact\" />
+    <None Remove="CQRS\Commands\Booking\" />
+    <None Remove="CQRS\Commands\Booking\CreateBooking\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
@@ -45,6 +47,8 @@
     <Folder Include="CQRS\Commands\Subscribe\CreateSubscribe\" />
     <Folder Include="CQRS\Commands\Contact\" />
     <Folder Include="CQRS\Commands\Contact\CreateContact\" />
+    <Folder Include="CQRS\Commands\Booking\" />
+    <Folder Include="CQRS\Commands\Booking\CreateBooking\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Hotel.Domain\Hotel.Domain.csproj" />
